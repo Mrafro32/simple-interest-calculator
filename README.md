@@ -1,7 +1,8 @@
-#Proyecto de interes simple
+# Proyecto de Interés Simple
 
-Este proyecto es un proyecto basico el cual contiene un script en Bash llamado `simple-interest.sh` que calcula el interes simple basado en el capital, tasa de interes y el tiempo.
+Este proyecto contiene un script en Bash llamado `simple-interest.sh` que calcula el interés simple basado en el capital, la tasa de interés y el tiempo.
 
-##Como usarlo 
+## Cómo usarlo
+
 ```bash
 bash simple-interest.sh
