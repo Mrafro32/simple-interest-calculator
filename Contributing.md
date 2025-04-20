@@ -7,7 +7,7 @@ Para tener una buena colaboracion sigue estas pautas:
 2. Asegurate que el codigo funcione de manera correcta.
 3. Haz un pull request con una descripcion clara de los cambios.
 
-# Estilo de codigo
+## Estilo de codigo
 
 -Usa nombres descriptivos para las variables que vayas haciendo
 -Comenta en el codigo cuando sea necesario
