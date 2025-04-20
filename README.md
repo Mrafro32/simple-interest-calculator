@@ -4,5 +4,8 @@ Este proyecto contiene un script en Bash llamado `simple-interest.sh` que calcul
 
 ## Como usarlo
 
+Nota: Si desea ejecutar el archivo ya sea en Linux o macOS dele permiso con:
+chmod +x simple-interest.sh
+
 ```bash
 bash simple-interest.sh
