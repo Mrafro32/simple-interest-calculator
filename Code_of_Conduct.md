@@ -11,6 +11,7 @@ Nos comprometemos a actuar e interactuar de manera que contribuya a una comunida
 - Aceptar con elegancia las críticas constructivas
 - Centrarse en lo que es mejor para la comunidad
 - Mostrar empatía hacia los demás miembros de la comunidad
+- Compartir ideas las cuales aporten al proyecto
 
 ## Comportamiento inaceptable:
 
